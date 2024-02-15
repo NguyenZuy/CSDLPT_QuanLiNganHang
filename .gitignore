@@ -1,7 +1,1 @@
-*.ss~
-*.ss#*
-.#*.ss
-
-*.scm~
-*.scm#*
-.#*.scm
+Our Distributed SQL Server-Powered Bank Management System is a robust application designed to optimize banking operations through the implementation of a distributed SQL Server architecture. 
